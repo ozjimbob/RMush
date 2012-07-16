@@ -1,0 +1,14 @@
+"","X","X.1","Y","Z","Name","Desc","ID"
+"1",1,0,0,0,"Entrance","The Entrance Room",1
+"2",2,1,0,0,"Path","The Path",2
+"3",3,0,1,0,"Peaceful Shrine","A white marble fountain burbles gently in the middle of a lush indoor garden.  Vines woven with fairy lights hang under the roof.  A lone bird sings, hidden in the leaves.",3
+"4",4,0,2,0,"Marble Hallway","An arched marble hallway, tiled in a chequerboard pattern.  The floor is scuffed and dirty, suggesting many have passed by here.",4
+"5",5,0,3,0,"Front Door","An arched doorway.  Two large wooden doors stand open, letting the breeze blow through.  Some plants in terracotta pots stand outside the door.",5
+"6",6,0,4,0,"Garden Path","A stone path cuts across the middle of a lawn.",6
+"7",7,1,4,0,"Lawn","A mown grazzy lawn.",7
+"8",8,-1,4,0,"Lawn","A mown grassy lawn.  There is a flamingo made from an old tire here.",8
+"9",9,0,5,0,"Garden Path","A stone path cuts across the middle of the lawn.  A broken tricycle is on the path.",9
+"10",10,1,5,0,"Lawn","A weedy mown area of grass.",10
+"11",11,-1,5,0,"Lawn","A neatly mown lawn, with a sprinkler gently watering the grass.",11
+"12",12,0,6,0,"Footpath","A footpath running by a very strange looking house.  There is a mown front lawn in front of the house.",12
+"13",13,0,-1,0,"Lounge Room","You are in a loungeroom.  A rather dirty bong sits on a table covered in empty DVD cases.  The TV is tuned to a dead channel, and hence is glowing a glorious blue.  There is a poster of The Cure on the wall, and cold bowl of ramen on the floor by the couch.",13
